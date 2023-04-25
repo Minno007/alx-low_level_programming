@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/**  
+/**
  * main - Entry point
- *  
+ *
  * Description: A C program that prints with puts function
  *
  * Return: Alawys 0 (Success)
